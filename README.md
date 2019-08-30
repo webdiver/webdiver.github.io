@@ -28,7 +28,7 @@ und das soll die nächste Zeile sein
 First Header | Second Header | Third Header
 ------------ | ------------- | ------------
 Content from cell 1 | Content from cell 2 | so das ist die neue
-[sop](http://schoolofprogramming.de)   | Content in the second column | [SchoolofProgramming](http://schoolofprogramming.de)  
+[sop](http://schoolofprogramming.de)   | [hello-world](https://webdiver.github.io/hello-world/) | [SchoolofProgramming](http://schoolofprogramming.de)  
 
 
 <br>
