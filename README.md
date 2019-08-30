@@ -1,5 +1,23 @@
 ## Welcome to GitHub Pages
 
+** this should be bold **
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+* päcki
+  * zweite ebene
+  * jetzt aber
+1. eins
+2. zwei
+  1. eins von zwei
+
+1. eins
+1. zwei
+  1. eins von zwei
+ 
+
 You can use the [editor on GitHub](https://github.com/webdiver/webdiver.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
