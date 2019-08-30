@@ -5,6 +5,13 @@
 **this should be bold**\
 *das soll italic sein ohne Abschluß*\
 
+ohne Sternchen\
+
+jetzt mal ein br tag<br>
+
+
+
+
 * Item 1
 * Item 2
   * Item 2a
