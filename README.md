@@ -31,6 +31,8 @@ Content from cell 1 | Content from cell 2 | so das ist die neue
 [sop](http://schoolofprogramming.de)   | Content in the second column | [SchoolofProgramming](http://schoolofprogramming.de)  
 
 
+<br>
+
 
 * Item 1
 * Item 2
