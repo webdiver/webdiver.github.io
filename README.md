@@ -14,8 +14,8 @@
 2. zwei
    1. eins von zwei
 
-[link zu spiegel](www.spiegel.de)
-ggggg
+[link zu spiegel](http://spiegel.de)
+
 
 1. eins
 1. zwei
