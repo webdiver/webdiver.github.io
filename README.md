@@ -1,9 +1,18 @@
 ## Welcome to GitHub Pages
 
+
+```
 **this should be bold**  
 *das soll italic sein*  
-**this should be bold**\
-*das soll italic sein ohne Abschluß*\
+**this should be bold**  
+
+(url) and ![Image](src)  
+http://schoolofprogramming.de
+
+```
+
+
+
 
 ohne Sternchen\
 
