@@ -9,6 +9,11 @@
 ![Image](src)  
 http://schoolofprogramming.de
 
+Ich schreibe mal hier einen normalen Text.  
+Das ist vielleicht gar nicht mal so schlecht.  
+
+Mal schauen.
+
 ```
 http://schoolofprogramming.de
 
