@@ -1,6 +1,10 @@
 ## Welcome to GitHub Pages
 
-** this should be bold **
+**this should be bold**
+*das soll italic sein*
+**this should be bold**
+*das soll italic sein ohne Abschluß 
+
 * Item 1
 * Item 2
   * Item 2a
