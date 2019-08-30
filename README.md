@@ -25,6 +25,10 @@ und das soll die nächste Zeile sein
 
 <H1>das ist ein h1 tag</h1>
 
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content from cell 1 | Content from cell 2 | so das ist die neue
+Content in the first column | Content in the second column 
 
 
 
