@@ -6,14 +6,14 @@
 *das soll italic sein*  
 **this should be bold**  
 
-(url) and ![Image](src)  
+![Image](src)  
 http://schoolofprogramming.de
 
 ```
 http://schoolofprogramming.de
 
 
-
+![Image](http://schoolofprogramming.de/images/teaching_group1_1000.jpg)
 
 jetzt mal ein br tag<br>
 und das soll die nächste Zeile sein  
