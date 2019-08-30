@@ -10,11 +10,10 @@
 http://schoolofprogramming.de
 
 ```
+http://schoolofprogramming.de
 
 
 
-
-ohne Sternchen\
 
 jetzt mal ein br tag<br>
 und das soll die nächste Zeile sein  
