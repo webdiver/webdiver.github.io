@@ -28,7 +28,7 @@ und das soll die nächste Zeile sein
 First Header | Second Header | Third Header
 ------------ | ------------- | ------------
 Content from cell 1 | Content from cell 2 | so das ist die neue
-Content in the first column | Content in the second column 
+[sop](http://schoolofprogramming.de)   | Content in the second column | [SchoolofProgramming](http://schoolofprogramming.de)  
 
 
 
